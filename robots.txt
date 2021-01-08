@@ -1,0 +1,11 @@
+User-agent: *
+
+Allow: /
+Allow: /index.html
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /lib/
+Disallow: /languages/
+Disallow: /examples/
